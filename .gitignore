@@ -1,0 +1,31 @@
+# os
+.DS_Store
+
+# editors
+.idea/
+.vs/
+.vscode/
+*.csproj.user
+.settings
+.classpath
+.project
+
+# node js file
+node_modules/
+yarn.lock
+
+# dotnet
+**/bin/
+**/obj/
+
+# php
+**/vendor/
+composer.lock
+composer.phar
+
+# java
+target/
+
+# misc
+coverage/
+.nyc_output/
