@@ -15,7 +15,7 @@
     "typescript": "^3",
     "jest": "^24",
     "ts-jest": "^24",
-    "node-fetch": "^2"
+    "node-fetch": "^3"
   },
   "jest": {
     "moduleFileExtensions": [
