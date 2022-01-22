@@ -33,7 +33,7 @@
     "rxjs": "^6.5",
     "knex": "^0.20",
     "pg": "^7",
-    "nanoid": "^2"
+    "nanoid": "^3"
   },
   "devDependencies": {
     "@nestjs/cli": "^6.9",
