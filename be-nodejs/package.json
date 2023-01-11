@@ -31,7 +31,7 @@
     "reflect-metadata": "^0.1",
     "rimraf": "^3.0",
     "rxjs": "^6.5",
-    "knex": "^0.20",
+    "knex": "^2.4",
     "pg": "^7",
     "nanoid": "^2"
   },
